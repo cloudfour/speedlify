@@ -1,6 +1,6 @@
 module.exports = {
-	netlify: {
-		description: "Netlify web sites",
+	cloudfour: {
+		description: "Cloud Four sites",
 		options: {
 			frequency: 60 * 12, // 12 hours
 			// if the sites don’t share assets on the same domain, we can reset
